@@ -1,0 +1,133 @@
+🎮 Advanced Rock Paper Scissors Game – Python
+📌 Project Overview
+
+The Advanced Rock Paper Scissors Game is a Python-based console game designed to enhance logical thinking and strengthen Python fundamentals.
+Unlike a basic version, this game supports multiple rounds, score tracking, input validation, replay functionality, and clean modular logic, making it suitable as a beginner-to-intermediate level project.
+
+This project demonstrates practical usage of Python concepts in a fun and interactive way.
+
+✨ Features
+
+🎯 User-friendly console gameplay
+
+🔄 Multiple rounds support
+
+🧮 Real-time score tracking
+
+👤 Player name input
+
+🤖 Computer-generated random moves
+
+❌ Input validation for incorrect choices
+
+🔁 Play-again option
+
+🧼 Clean and readable code structure
+
+🛠️ Technologies Used
+
+Language: Python 3
+
+Libraries:
+
+random (for computer choice generation)
+
+📂 Project Structure
+Rock-Paper-Scissors/
+│── main.py
+│── README.md
+
+🎮 Game Rules
+
+Rock beats Scissors
+
+Scissors beats Paper
+
+Paper beats Rock
+
+Same choice results in a Tie
+
+▶️ How to Run the Project
+1️⃣ Clone the Repository
+git clone https://github.com/your-username/rock-paper-scissors-python.git
+
+2️⃣ Navigate to Project Folder
+cd rock-paper-scissors-python
+
+3️⃣ Run the Game
+python main.py
+
+🧠 How the Game Works
+
+The user enters their name
+
+The user selects the number of rounds
+
+For each round:
+
+User selects rock, paper, or scissors
+
+Computer makes a random choice
+
+Winner of the round is decided
+
+Scores are updated after each round
+
+Final winner is announced
+
+User can choose to replay the game
+
+📸 Sample Output
+Enter your name: Ashvini
+How many rounds do you want to play? 3
+
+Round 1
+Choose rock, paper, or scissors: rock
+Computer chose: scissors
+You win this round!
+
+Score → Ashvini: 1 | Computer: 0
+
+📚 Concepts Covered
+
+Variables and Data Types
+
+Lists
+
+Conditional Statements (if-elif-else)
+
+Loops (for, while)
+
+Functions
+
+Random module
+
+User Input Handling
+
+Game Logic Implementation
+
+🚀 Future Enhancements
+
+💾 Save scores using file handling
+
+🖥️ GUI version using Tkinter or Pygame
+
+🏆 Leaderboard system
+
+⏱️ Timer-based rounds
+
+🎨 Improved UI/UX
+
+🧾 Resume Description
+
+Developed an advanced Rock Paper Scissors game using Python with features like multi-round gameplay, score tracking, and input validation.
+This project demonstrates strong understanding of Python fundamentals, game logic, and interactive console-based application development.
+
+👩‍💻 Author
+
+Ashvini Jadhav
+Python & Data Science Learner
+
+⭐ Support
+
+If you like this project, please ⭐ the repository and feel free to fork or contribute!
